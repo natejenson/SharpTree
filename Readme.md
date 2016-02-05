@@ -1,4 +1,4 @@
-# Binary Search Tree, In C\#
+# Binary Search Tree, In C Sharp
 
 A C# library for binary search trees complete with unit tests.
 
