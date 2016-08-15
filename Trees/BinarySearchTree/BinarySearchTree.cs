@@ -80,7 +80,7 @@ namespace Trees.BinarySearchTree
 			if (nodeToDelete == null)
 			{
 				// Node wasn't found.
-				throw new InvalidOperationException("Deletion faild. Could not find the node in the tree.");
+				throw new InvalidOperationException("Deletion failed. Could not find the node in the tree.");
 			}
 
 			// Now that the node has been found, do the deletion.
